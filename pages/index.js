@@ -15,6 +15,7 @@ export default function Index({ allPosts }) {
       <Layout>
         <Head>
           <title>Next.js Blog Example with {CMS_NAME}</title>
+          <meta name="google-site-verification" content="nSVFg_Pyfi8Eb2tL6Nr7BGddY9aoEyutvYPuqp1iO_w" />
         </Head>
         <Container>
           <Intro />
