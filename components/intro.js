@@ -7,7 +7,7 @@ export default function Intro() {
         Rules.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Probabilistic games' rules of{' '}
+        Rules of probabilistic games in{' '}
         <a
           href="https://terjago.com/"
           className="underline hover:text-success duration-200 transition-colors"
