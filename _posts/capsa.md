@@ -10,16 +10,15 @@ ogImage:
   url: '/assets/blog/capsa/cover.jpg'
 ---
 
-(♠,♥,♣,♦)
+<span style="color: black">♠</span>
+<span style="color: red">♥</span>
+<span style="color: black">♣</span>
+<span style="color: red">♦</span>
 
 Çapsa or Big Two, will be the first card game to be offered by [terjago.com](https://www.terjago.com/). 
 This article provides a thorough explanation of çapsa gameplay.
 
 # Setup.
-
-<span style="color:red">♦</span>
-
-<span style="color:blue">some *blue* text</span>.
 
 In our version, the game can either be played by 2, 3, or 4 players.
 The game started with a deck of 52 cards, randomly shuffled.
